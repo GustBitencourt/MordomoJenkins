@@ -8,7 +8,7 @@ public class HelloWorld {
 
     @GetMapping("/hello")
     public String helloMessage() {
-        return "Vai Corinthians!!";
+        return "Vai Corinthians!! Bora Bahêa Minha Porra!!!";
     }
 
 }
